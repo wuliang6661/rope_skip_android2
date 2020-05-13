@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.inuker.bluetooth:library-1.4.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/62fb6ce1e7dee4e6a9f9f5bb2e641cd4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.4.0.aar/62fb6ce1e7dee4e6a9f9f5bb2e641cd4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.inuker.bluetooth/library/1.4.0/d13c7e1a84daa4fa3100e78c9db9e71c31e423a9/library-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
